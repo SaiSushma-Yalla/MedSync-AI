@@ -1,0 +1,28 @@
+{
+    "patient_id": "P002",
+    "doctor": "",
+    "speciality": "",
+    "date": "2026-04-17",
+    "diagnosis": [],
+    "medications": [
+        {
+            "name": "Tetracycline",
+            "dose": "250 mg daily"
+        },
+        {
+            "name": "Inderal LA",
+            "dose": "80 mg every other day"
+        }
+    ],
+    "creatinine": "",
+    "egfr": "",
+    "recommendations": [
+        "evaluate the adequacy of the therapy for her urinary tract infection with the urinalysis and culture",
+        "mammogram and screening",
+        "hemoccult x 3",
+        "DEXA scan and screening",
+        "chem-12",
+        "lipid profile",
+        "CBC"
+    ]
+}

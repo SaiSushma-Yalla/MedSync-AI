@@ -1,0 +1,20 @@
+{
+    "patient_id": "P001",
+    "doctor": "",
+    "speciality": "",
+    "date": "2026-03-15",
+    "diagnosis": [
+        "Possible cerebrospinal fluid versus wound fistula"
+    ],
+    "medications": [
+        {
+            "name": "",
+            "dose": ""
+        }
+    ],
+    "creatinine": "",
+    "egfr": "",
+    "recommendations": [
+        "excision of this tract"
+    ]
+}

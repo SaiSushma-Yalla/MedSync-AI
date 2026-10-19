@@ -1,0 +1,18 @@
+{
+    "patient_id": "P002",
+    "doctor": "",
+    "speciality": "",
+    "date": "2026-06-13",
+    "diagnosis": [
+        "Adenotonsillar hypertrophy and chronic otitis media"
+    ],
+    "medications": [
+        {
+            "name": "Cortisporin ear drops",
+            "dose": ""
+        }
+    ],
+    "creatinine": "",
+    "egfr": "",
+    "recommendations": []
+}

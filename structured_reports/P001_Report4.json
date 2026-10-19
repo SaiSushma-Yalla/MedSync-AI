@@ -1,0 +1,31 @@
+{
+    "patient_id": "P001",
+    "doctor": "Dr. X",
+    "speciality": "",
+    "date": "2026-04-23",
+    "diagnosis": [
+        "Hallux limitus deformity of the right foot",
+        "Gout"
+    ],
+    "medications": [
+        {
+            "name": "Ancef",
+            "dose": "1 g IV"
+        },
+        {
+            "name": "Marcaine",
+            "dose": "0.5% mixture"
+        },
+        {
+            "name": "Lidocaine",
+            "dose": "1% plain"
+        }
+    ],
+    "creatinine": "",
+    "egfr": "",
+    "recommendations": [
+        "Follow up with Dr. X's office in one week's time for her first postoperative appointment",
+        "Continue caring for her right foot surgery at home",
+        "Control her postoperative pain"
+    ]
+}

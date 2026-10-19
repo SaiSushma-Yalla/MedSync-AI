@@ -1,0 +1,16 @@
+{
+    "patient_id": "P001",
+    "doctor": "",
+    "speciality": "",
+    "date": "2026-06-18",
+    "diagnosis": [
+        "Left thyroid mass"
+    ],
+    "medications": [],
+    "creatinine": "",
+    "egfr": "",
+    "recommendations": [
+        "23-hour observation",
+        "Follow up in one week"
+    ]
+}

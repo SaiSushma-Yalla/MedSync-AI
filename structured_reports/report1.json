@@ -1,0 +1,21 @@
+{
+    "doctor": "",
+    "speciality": "",
+    "date": "08/07/2026",
+    "diagnosis": [
+        "Type 2 Diabetes Mellitus"
+    ],
+    "medications": [
+        {
+            "name": "Metformin",
+            "dose": "500 mg Twice Daily"
+        }
+    ],
+    "creatinine": "",
+    "egfr": "",
+    "recommendations": [
+        "Reduce sugar intake",
+        "Daily walking 45 minutes",
+        "Repeat HbA1c after 3 months"
+    ]
+}

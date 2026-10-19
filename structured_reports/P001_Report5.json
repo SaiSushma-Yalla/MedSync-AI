@@ -1,0 +1,25 @@
+{
+    "patient_id": "P001",
+    "doctor": "",
+    "speciality": "",
+    "date": "2026-05-17",
+    "diagnosis": [],
+    "medications": [
+        {
+            "name": "Percocet",
+            "dose": ""
+        },
+        {
+            "name": "Tylenol",
+            "dose": "extra strength"
+        }
+    ],
+    "creatinine": "",
+    "egfr": "",
+    "recommendations": [
+        "continue doing hand exercises",
+        "follow BRAT diet",
+        "monitor ileostomy output",
+        "refrain from soft drinks and fruit drinks"
+    ]
+}

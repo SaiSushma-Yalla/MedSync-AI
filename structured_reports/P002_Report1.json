@@ -1,0 +1,22 @@
+{
+    "patient_id": "P002",
+    "doctor": "",
+    "speciality": "",
+    "date": "2026-02-28",
+    "diagnosis": [
+        "Completely bony impacted teeth #1, #16, #17, and #32"
+    ],
+    "medications": [
+        {
+            "name": "lidocaine 2% with 1:100,000 epinephrine",
+            "dose": "7.2 mL"
+        },
+        {
+            "name": "bupivacaine 0.5% with 1:200,000 epinephrine",
+            "dose": "3.6 mL"
+        }
+    ],
+    "creatinine": "",
+    "egfr": "",
+    "recommendations": []
+}

@@ -1,0 +1,25 @@
+{
+    "patient_id": "P002",
+    "doctor": "Dr. XYZ",
+    "speciality": "",
+    "date": "2026-03-19",
+    "diagnosis": [
+        "Wasp sting to the right wrist area"
+    ],
+    "medications": [
+        {
+            "name": "Solu-Medrol",
+            "dose": "125 mg IM X 1"
+        },
+        {
+            "name": "Benadryl",
+            "dose": "over-the-counter"
+        }
+    ],
+    "creatinine": "",
+    "egfr": "",
+    "recommendations": [
+        "ice and elevation of that extremity",
+        "Follow up with Dr. XYZ if any further evaluation is needed"
+    ]
+}

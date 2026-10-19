@@ -1,0 +1,16 @@
+{
+    "patient_id": "P001",
+    "doctor": "",
+    "speciality": "",
+    "date": "2026-02-12",
+    "diagnosis": [],
+    "medications": [
+        {
+            "name": "",
+            "dose": ""
+        }
+    ],
+    "creatinine": "",
+    "egfr": "",
+    "recommendations": []
+}
