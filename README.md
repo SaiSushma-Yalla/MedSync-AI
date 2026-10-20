@@ -6,15 +6,14 @@ MedSync AI is an AI-powered medical report coordination system that analyzes new
 Demo Video:
 https://github.com/user-attachments/assets/9919407b-7a95-45a3-98ef-7c9f8695d57f
 Screenshots:
-<img width="1920" height="1080" alt="Screenshot 2026-10-20 162124" src="https://github.com/user-attachments/assets/5aa73a5a-7a79-4977-9254-ebf4f7304a31" />
-<img width="1920" height="1080" alt="Screenshot 2026-10-20 162105" src="https://github.com/user-attachments/assets/2bd64328-23cb-4662-92e2-9903574d0735" />
-<img width="1920" height="1080" alt="Screenshot 2026-10-20 162058" src="https://github.com/user-attachments/assets/27cc0253-2208-4709-9a85-97d969ddc49f" />
-<img width="1920" height="1080" alt="Screenshot 2026-10-20 162034" src="https://github.com/user-attachments/assets/11f06b97-3053-4267-bf6a-1554394c791a" />
-<img width="1920" height="1080" alt="Screenshot 2026-10-20 162011" src="https://github.com/user-attachments/assets/d817e2a8-7cbd-492b-852f-893ad86d619f" />
-<img width="1920" height="1080" alt="Screenshot 2026-10-20 161921" src="https://github.com/user-attachments/assets/3e7f70eb-da90-4e9d-89dc-cf77ecdd7fed" />
-<img width="1920" height="1080" alt="Screenshot 2026-10-20 161833" src="https://github.com/user-attachments/assets/64c1a059-efc2-4862-b812-951271010fd9" />
 <img width="1920" height="1080" alt="Screenshot 2026-10-20 161817" src="https://github.com/user-attachments/assets/65b6b158-f71d-45ef-87c6-dcfdc1d84669" />
-
+<img width="1920" height="1080" alt="Screenshot 2026-10-20 161833" src="https://github.com/user-attachments/assets/64c1a059-efc2-4862-b812-951271010fd9" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-20 161921" src="https://github.com/user-attachments/assets/3e7f70eb-da90-4e9d-89dc-cf77ecdd7fed" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-20 162011" src="https://github.com/user-attachments/assets/d817e2a8-7cbd-492b-852f-893ad86d619f" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-20 162034" src="https://github.com/user-attachments/assets/11f06b97-3053-4267-bf6a-1554394c791a" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-20 162058" src="https://github.com/user-attachments/assets/27cc0253-2208-4709-9a85-97d969ddc49f" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-20 162105" src="https://github.com/user-attachments/assets/2bd64328-23cb-4662-92e2-9903574d0735" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-20 162124" src="https://github.com/user-attachments/assets/5aa73a5a-7a79-4977-9254-ebf4f7304a31" />
 
 Features
 
